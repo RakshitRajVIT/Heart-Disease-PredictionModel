@@ -38,9 +38,13 @@ CatBoost
 - Python 3.15
 - Libraires: pandas, Numpy, Scikit-Learn, XGBoost, LightGBM, CatBoost, Matplotlin, Seaborn
 
+### how to Run 
+Go to terminal <br>
+then write: `strealit run app.py`
+
 ### Installation
 Install required Python pakages using pip
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Running the project
 1. Load and Preprocess the dataset
